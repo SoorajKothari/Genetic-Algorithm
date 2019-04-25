@@ -1,4 +1,4 @@
-##Title
+###Title
 
 C++ code of genetic Algorithm Aritifical intelligence algorithm
 
@@ -25,4 +25,3 @@ Lastly there needs to be some criteria of when to stop. So for that, you can kee
 ## Authors
 
 * **Sooraj Kumar** 
-* etc
